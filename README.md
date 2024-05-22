@@ -35,7 +35,7 @@ L’estructura base de la web és la que es pot observar en les imatges següent
 ## Web responsive  :page_facing_up:
 Per a la realització del responsive de la pàgina web, he realitzat diverses tècniques perquè s’ajusti a tota mena de dispositius electrònics. El principal es el següent:
 - Per ajustar la barra de navegació de la web per a dispositius moblis, he utilitzat el següent codi:
-![Codi responsive](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/ec146d89-bd2e-44c3-870d-b0dee653e507)
+![Codi responsive](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/bbd24904-7af9-4111-9c9a-4b5e42f4edc9)
 
 La funció s'anomena myFunction i dins d’aquesta, s'obté un element del document HTML.
 
@@ -45,7 +45,7 @@ També he utilitzat el Flexible Grid Layouts en utilitzar unitats relatives com 
 
 - El codi CSS utilitzat per al responsive de la pàgina web és el següent:
 
-![Coid CSS](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/469bbc83-37d2-4e4d-a46a-c33d3db9082c)
+![Codi CSS](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/ea3fecec-e570-4a33-8a59-3fb756536066)
 
 Es pot apreciar com he utilitzat la regla @media (max-width: 768px) que s'aplica quan la pantalla té una amplada màxima de 768 píxels (com en dispositius mòbils). 
 
