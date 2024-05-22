@@ -1,0 +1,195 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+
+
+/* Formulari de Contacte */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+form {
+    margin-bottom: 50px; /* Barra gris */
+}
+
+
+/* Equip */
+#equipo {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1 1 30%;
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card img {
+    max-width: 50%;
+    border-radius: 50%;
+}
+
+.left {
+    align-self: flex-start;
+}
+
+.center {
+    align-self: center;
+}
+
+.right {
+    align-self: flex-end;
+}
+
+h2 {
+    margin: 10px 0 5px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+/* Estils Projectes */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estils seccions projectes */
+section {
+    padding: 40px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.imagen-derecha {
+    float: right;
+}
+
+.imagen-derecha img {
+    width: 90%;
+    height: 250px;
+}
+
+
+/* Estils per al botó "Tornar a l'inici" */
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: none;
+}
+
+#back-to-top:hover {
+    background-color: #0056b3;
+}
+
+#map {
+    width: 100%;
+    height: 500px;
+}
+
+
+
+  /* Estils per als dispositius mòbils */
+@media (max-width: 768px) {
+    .nav-menu ul {
+        display: block;
+        position: fixed;
+        top: 70px;
+        left: -100%;
+        background: #222;
+        width: 100%;
+        height: 100vh;
+        right: 0;
+    }
+}
