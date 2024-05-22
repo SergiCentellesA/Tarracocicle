@@ -70,3 +70,8 @@ Detalls del mapa:
 
 ## Dificultats/millores  :chart_with_upwards_trend:
 Durant l’elaboració de la pàgina web m’he topat amb diverses dificultats que han anat sent resoltes, però algunes d’elles no han sigut possibles.
+
+A continuació detallo un llistat dels aspectes que podrien millorar-se de la meva pàgina web i amb els que he tingut dificultat:
+
+- Mapa de la web: podria acabar d'ajustar-se pel marge dret de la pàgina, ja que hi ha un espai en blanc.
+- La tècnica responsive ha sigut complicada, tot i que en termes generals s’adapta bé a tots els dispositius electrònics.
