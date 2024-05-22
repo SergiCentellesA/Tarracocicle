@@ -1,5 +1,5 @@
 # LLEGIU-ME  :speech_balloon:
-Aquest és un repositori on he publicat la meva primera pàgina web per a l’assignatura de  Producció i disseny cartogràfic eines web. Aquesta web està publicada a [sergi-centelles.com/Tarracocicle/]([https://sergicentellesa.github.io/Tarracocicle/](https://sergicentellesa.github.io/Tarracocicle/)).
+Aquest és un repositori on he publicat la meva primera pàgina web per a l’assignatura de  Producció i disseny cartogràfic eines web. Aquesta web està publicada a [sergi-centelles.com/Tarracocicle/]([https://sergicentellesa.github.io/Tarracocicle/])(https://sergicentellesa.github.io/Tarracocicle/)).
 
 ## Tema i motivació  :pencil:
 - He creat un centre d’investigació que està realitzant un projecte anomenat Tarracocicle.
