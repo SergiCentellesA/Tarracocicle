@@ -1,0 +1,1 @@
+var json_Puntcrtic3_2 = {"type":"FeatureCollection","name":"Puntcrtic3_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3","Nom":"Punt crític 3","Municipi":"Tarragona","Prioritat":"Alta","Zona":"Avinguda Roma"},"geometry":{"type":"Point","coordinates":[1.239418392203941,41.118091504263084]}}]}

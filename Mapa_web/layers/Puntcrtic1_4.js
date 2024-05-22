@@ -1,0 +1,1 @@
+var json_Puntcrtic1_4 = {"type":"FeatureCollection","name":"Puntcrtic1_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nom":"Punt crític 1","Municipi":"Tarragona","Prioritat":"Mitjana","Zona":"Port de Tarragona"},"geometry":{"type":"Point","coordinates":[1.249600334956681,41.109089524969541]}}]}
