@@ -23,9 +23,9 @@ En aquesta pàgina web, trobareu 5 pàgines diferents:
 - Formulari de contacte.
 
 L’estructura base de la web és la que es pot observar en les imatges següents:
-![Part superior de la web](https://github.com/SergiCentellesA/Tarracocicle1/assets/168576732/82a4b5db-a9dc-4363-b16f-1eaeefeb8688)
+![Part superior de la web](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/2d959e68-6d88-45e4-b3d1-24cee8faaa35)
 
-![Peu de pàgina de la web](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/a209fbec-63f2-497f-b349-ddd6a5fab7a2)
+![Peu de pàgina de la web](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/ccfc2abc-6aad-4c85-9266-a11089b95e29)
 
 - En la primera imatge, veiem la barra de navegació, amb el títol i subtítol de la web i el header de color negre que ens indica en quina pàgina de la web ens trobem.
 - En la segona imatge, es veu l’eslògan de la pàgina web, el peu de pàgina (footer) i el botó de tornar a l’inici.
@@ -59,8 +59,7 @@ Per a l’elaboració de la cartografia de la pàgina web, s’ha realitzat mitj
 - Quant al de l’Avinguda Roma (Punt crític 3), s’hauria de crear un nou carril bici, ja que és l’Avinguda per la qual entres a Tarragona i arribes fins a la plaça principal d’aquesta. Per tant, es podria connectar el carril bici existent de la plaça imperial Tàrraco amb aquest nou. 
 - El punt crític 1, situat a la zona del port de Tarragona, seria una bona opció per instal·lar un carril bici que connectes el Serrallo amb la platja del Miracle, fent així un espai atractiu per als ciclistes.
 
-![Mapa](https://github.com/SergiCentellesA/Tarracocicle1/assets/168576732/1fdf5373-934a-4b0f-b360-6f9817e23ebd)
-
+![Mapa](https://github.com/SergiCentellesA/Tarracocicle/assets/168576732/3ecc6b60-1bf0-415d-a05c-aa80ea9d3d78)
 Detalls del mapa:
 - Pots ampliar i minimitzar el mapa.
 - En clicar els punts t’indica quin punt crític és.
